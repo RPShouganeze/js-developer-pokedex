@@ -20,9 +20,11 @@
     <!-- Nosso CSS -->
     <link rel="stylesheet" href="/assets/css/global.css">
     <link rel="stylesheet" href="/assets/css/pokedex.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  
 </head>
 
-<body>
+<body class="body">
     <section class="content">
         <h1><img src="./assets/images/image.png" alt="tema"></h1>
 
@@ -35,12 +37,26 @@
                 Carregar mais
             </button>
         </div>
+
+               <!-- Modal with pokemon details -->
+               <div class="modal fade pokemons " id="pokemonModal" tabindex="-1" aria-labelledby="pokemonModalLabel" aria-hidden="true">
+                <div class="modal-dialog ">
+                    <div class="modal-content">                    
+                        <div class="modal-body justify-content-center align-items-center" id="pokemonModalBody">
+                            <!-- Content will be added dynamically via JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
     </section>
 
     <!-- Nosso JS -->
     <script src="/assets/js/pokemon-model.js"></script>
     <script src="/assets/js/poke-api.js"></script>
     <script src="/assets/js/main.js"></script>
+
+      <!-- Link to Bootstrap JavaScript and Popper.js -->
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
