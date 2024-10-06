@@ -38,5 +38,5 @@ Apresentar uma verdadeira Pokédex de Pokémon, a principio uma listagem de no m
 **Rafael Rodrigues Pereira** - *Este projeto é um Desafio de Projeto da DIO* - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
 
 ## 💻 Site do Projeto
-[Resultado](https://classificador-nivel-heroi-eight.vercel.app/)
+[Resultado](https://js-developer-pokedex-fawn.vercel.app/)
 
