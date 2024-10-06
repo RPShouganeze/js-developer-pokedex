@@ -14,7 +14,7 @@
     background-color: #000000;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 380px) {
     .content {
         max-width: 992px;
         height: auto;
@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 576px) {
     .content {
         max-width: 992px;
         height: auto;
