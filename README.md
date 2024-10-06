@@ -1,6 +1,6 @@
 <a><img src="./assets/images/Captura de tela 2024-10-05 203026.jpg"></a>
 
-# Desafio Trilha JS Developer - Pokedéx 
+# Desafio Trilha JS Developer - Pokédex 
 
 <img src="./assets/images/pokedex.webp">
 
