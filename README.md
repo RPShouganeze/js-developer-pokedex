@@ -23,7 +23,6 @@ Este projeto é resultado da atividade prática proposta no bootcamp Ri Happy - 
 **O Que deve ser utilizado**
 
 - Variáveis
-- Constantes
 - Condicionais
 - Laços de repetição
 - Estruturas de decisões
