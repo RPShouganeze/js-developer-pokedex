@@ -1,6 +1,8 @@
 <a><img src="./assets/images/Captura de tela 2024-10-05 203026.jpg"></a>
 
-# Desafio Trilha JS Developer - Pokedéx <img src="./assets/images/pokedex.webp">
+# Desafio Trilha JS Developer - Pokedéx 
+
+<img src="./assets/images/pokedex.webp">
 
 Este projeto é resultado da atividade prática proposta no bootcamp Ri Happy - Front-end do Zero da DIO (Digital Innovation One). Ao realizar este projeto, adaptei meus conhecimentos em HTML, CSS e JavaScript para enfrentar o desafio proposto, adicionando elementos gráficos.
 
