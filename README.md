@@ -18,7 +18,7 @@ Este projeto é resultado da atividade prática proposta no bootcamp Ri Happy - 
 
 ## 📌 Desafio
 
-### Desafio Trilha JS Developer - Pokedéx
+### Desafio Trilha JS Developer - Pokédex
 
 **O Que deve ser utilizado**
 
